@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthenticationProject"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{8BA9ED64-FDD3-4E94-A82A-5512877DAB50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCodes", "RandomCodes\RandomCodes.csproj", "{6D587A83-49D2-4E33-AEBA-A59D8B054063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopsImplementation", "OopsImplementation\OopsImplementation.csproj", "{61668909-EEEF-441F-9FCF-4711025196A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8BA9ED64-FDD3-4E94-A82A-5512877DAB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA9ED64-FDD3-4E94-A82A-5512877DAB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA9ED64-FDD3-4E94-A82A-5512877DAB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D587A83-49D2-4E33-AEBA-A59D8B054063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D587A83-49D2-4E33-AEBA-A59D8B054063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D587A83-49D2-4E33-AEBA-A59D8B054063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D587A83-49D2-4E33-AEBA-A59D8B054063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61668909-EEEF-441F-9FCF-4711025196A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61668909-EEEF-441F-9FCF-4711025196A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61668909-EEEF-441F-9FCF-4711025196A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61668909-EEEF-441F-9FCF-4711025196A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
