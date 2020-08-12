@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomCodes", "RandomCodes\RandomCodes.csproj", "{6D587A83-49D2-4E33-AEBA-A59D8B054063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopsImplementation", "OopsImplementation\OopsImplementation.csproj", "{61668909-EEEF-441F-9FCF-4711025196A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopsImplementation", "OopsImplementation\OopsImplementation.csproj", "{61668909-EEEF-441F-9FCF-4711025196A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionImplementation", "ConsoleApp1\DependencyInjectionImplementation.csproj", "{98DE7A7B-554D-4708-BDCF-42F24E1EBE7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{61668909-EEEF-441F-9FCF-4711025196A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61668909-EEEF-441F-9FCF-4711025196A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61668909-EEEF-441F-9FCF-4711025196A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DE7A7B-554D-4708-BDCF-42F24E1EBE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DE7A7B-554D-4708-BDCF-42F24E1EBE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DE7A7B-554D-4708-BDCF-42F24E1EBE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DE7A7B-554D-4708-BDCF-42F24E1EBE7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
